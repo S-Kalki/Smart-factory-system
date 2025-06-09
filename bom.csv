@@ -1,0 +1,12 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"SERVO1",1,"Positional Micro Servo"
+"PING1",1," Ultrasonic Distance Sensor"
+"PIEZO1",1," Piezo"
+"U2",1," Temperature Sensor [TMP36]"
+"M1, M2",2," DC Motor"
+"PIR1",1," PIR Sensor"
+"K1, K2",2," Relay SPDT"
+"S1, S2",2," Slideswitch"
+"P1",1,"5 , 5  Power Supply"
+"L1, L2, L3",3," Light bulb"
